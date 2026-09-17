@@ -128,5 +128,5 @@ Hostel Complaint Management System/
 
 ## 👤 Author
 
-**SHUBH TYAGI**  <br>
-Mail: tyagishubh.workspace@gmail.com 
+**HARSHVARDHAN BORGOHAIN**  <br>
+Mail: harshvardhan.24bac10024@vitbhopal.ac.in
